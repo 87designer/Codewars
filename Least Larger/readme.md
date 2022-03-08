@@ -10,6 +10,7 @@ The given array will, therefore, never be empty.
 
 ## Example
 
-```least_larger( [4, 1, 3, 5, 6], 0 )  ->  3
+```
+least_larger( [4, 1, 3, 5, 6], 0 )  ->  3
 least_larger( [4, 1, 3, 5, 6], 4 )  -> -1
 ```
