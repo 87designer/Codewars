@@ -10,7 +10,8 @@ Write a function validSolution/ValidateSolution/valid_solution() that accepts a 
 The board is always 9 cells by 9 cells, and every cell only contains integers from 0 to 9.
 
 ## Examples
-```validSolution([
+```
+validSolution([
   [5, 3, 4, 6, 7, 8, 9, 1, 2],
   [6, 7, 2, 1, 9, 5, 3, 4, 8],
   [1, 9, 8, 3, 4, 2, 5, 6, 7],
@@ -22,7 +23,8 @@ The board is always 9 cells by 9 cells, and every cell only contains integers fr
   [3, 4, 5, 2, 8, 6, 1, 7, 9]
 ]); // => true
 ```
-```validSolution([
+```
+validSolution([
   [5, 3, 4, 6, 7, 8, 9, 1, 2],
   [6, 7, 2, 1, 9, 0, 3, 4, 8],
   [1, 0, 0, 3, 4, 2, 5, 6, 0],
